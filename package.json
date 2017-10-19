@@ -1,0 +1,21 @@
+{
+  "name": "nativescript-template-drawer",
+  "main": "app.js",
+  "version": "1.2.0",
+  "author": "TJ VanToll <tj.vantoll@gmail.com>",
+  "description": "A NativeScript starter template with drawer navigation",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjvantoll/nativescript-template-drawer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tjvantoll/nativescript-template-drawer/issues"
+  },
+  "homepage": "https://github.com/tjvantoll/nativescript-template-drawer",
+  "dependencies": {
+    "nativescript-statusbar": "^1.0.0",
+    "nativescript-telerik-ui": "^1.1.1",
+    "tns-core-modules": "2.0.0"
+  }
+}
